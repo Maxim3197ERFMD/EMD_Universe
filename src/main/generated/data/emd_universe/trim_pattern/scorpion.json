@@ -1,0 +1,8 @@
+{
+  "asset_id": "emd_universe:scorpion",
+  "decal": false,
+  "description": {
+    "translate": "trim_pattern.emd_universe.scorpion"
+  },
+  "template_item": "emd_universe:scorpion_armor_trim_smithing_template"
+}

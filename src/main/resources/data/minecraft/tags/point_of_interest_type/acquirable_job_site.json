@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values":  [
+    {
+      "id": "emd_universe:beekeeper_poi",
+      "required": false
+    }
+  ]
+}

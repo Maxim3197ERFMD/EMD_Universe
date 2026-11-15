@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/crop",
+  "textures": {
+    "crop": "emd_universe:block/parsley_crop_stage3"
+  }
+}

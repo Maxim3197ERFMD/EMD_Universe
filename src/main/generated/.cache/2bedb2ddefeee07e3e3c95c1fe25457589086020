@@ -1,0 +1,17 @@
+// 1.21.1	2026-09-25T12:04:02.6844697	EMD Universe/Tags for minecraft:item
+ccdc9bb03abb2e71ced3d1bbce944caae54809f0 data\minecraft\tags\item\trim_materials.json
+af726f4b3403bb87371ba887baf657458a6e885a data\minecraft\tags\item\chest_armor.json
+8957770a590b604a2616f313e1104f36ff39f85a data\minecraft\tags\item\swords.json
+8a476cba2fb86cdfe2b35fa2e5ba0409d4e17a54 data\minecraft\tags\item\trimmable_armor.json
+e1256ac7962293dbd8a8a700378a5ec988a30dbc data\minecraft\tags\item\pickaxes.json
+732b223c803443e6e9497c4702d62899154e954f data\minecraft\tags\item\trim_templates.json
+6e0976c86761b78a2d3248429dc70726a5cb56e2 data\minecraft\tags\item\leg_armor.json
+62efef7eb0a42c3272a56d29fbe5e73bb5789173 data\minecraft\tags\item\beacon_payment_items.json
+6d9e4b22ebc7c5251603a3eadd04aec6bddc9773 data\minecraft\tags\item\hoes.json
+4d0ba456002836966d381598f682bf881cecb52e data\minecraft\tags\item\foot_armor.json
+68ed7c3469db637a968e30668a1267a4a84cf566 data\minecraft\tags\item\enchantable\crossbow.json
+c11eb77db8ade4d80e66db1270b69e7b5d2594d6 data\minecraft\tags\item\enchantable\durability.json
+920ed0525987696eed5fa77838c3c1b4c2e9f87c data\minecraft\tags\item\axes.json
+a07da1d0864201d6170ed7fed0cb9a49bb9e3414 data\minecraft\tags\item\enchantable\bow.json
+dfb8cf40f49eb0b44d9ced6de6106419a1d39138 data\minecraft\tags\item\shovels.json
+09e8a29bcfd2012803cd10d607d4175afe38d5ac data\minecraft\tags\item\head_armor.json

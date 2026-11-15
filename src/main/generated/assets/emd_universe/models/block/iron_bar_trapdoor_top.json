@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/template_trapdoor_top",
+  "textures": {
+    "texture": "emd_universe:block/iron_bar_trapdoor"
+  }
+}

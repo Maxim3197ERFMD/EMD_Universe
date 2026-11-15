@@ -1,0 +1,7 @@
+{
+  "parent": "emd_universe:block/crop_cross",
+  "render_type": "minecraft:cutout",
+  "textures": {
+    "cross": "emd_universe:block/golden_flower_crop_stage1"
+  }
+}

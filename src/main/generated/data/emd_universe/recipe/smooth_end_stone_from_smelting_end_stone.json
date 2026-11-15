@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:smelting",
+  "category": "blocks",
+  "cookingtime": 200,
+  "experience": 0.1,
+  "group": "end_stone",
+  "ingredient": {
+    "item": "minecraft:end_stone"
+  },
+  "result": {
+    "id": "emd_universe:smooth_end_stone"
+  }
+}

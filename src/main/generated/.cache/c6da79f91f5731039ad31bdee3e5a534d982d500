@@ -1,0 +1,19 @@
+// 1.21.1	2026-09-25T12:04:02.6770265	EMD Universe/Tags for minecraft:block
+3f42ee57676ff3769ca7af2508de407e9f22961a data\minecraft\tags\block\trapdoors.json
+85da05bcffebab51a7385986e87642be736676bd data\minecraft\tags\block\mineable\pickaxe.json
+361230546e575357caa0991a0495faba1e2b8ce9 data\emd_universe\tags\block\custom_portal_frame.json
+e41e61359b4231d64bdf7eff40d9916b0c6f340f data\minecraft\tags\block\stairs.json
+35133e95f1c8fdd7a1c21afcc231fc0bffefb9a8 data\emd_universe\tags\block\incorrect_for_rose_gold_tool.json
+317fa76233b1c9da8a45860fb682b78f2219a3cf data\minecraft\tags\block\mineable\hoe.json
+53ee35e4ca38b2689656e8d15d4ef50f55c576ed data\minecraft\tags\block\walls.json
+489a2209bbe54465987cc9c578c7aa91ffb024f8 data\minecraft\tags\block\needs_stone_tool.json
+35133e95f1c8fdd7a1c21afcc231fc0bffefb9a8 data\emd_universe\tags\block\needs_rose_gold_tool.json
+ed2402d4def1bbb937cf959948717128c492b647 data\minecraft\tags\block\beacon_base_blocks.json
+d4ec2e79cdd7e0ff12ac3e73132403ea9a4b8ac1 data\minecraft\tags\block\needs_diamond_tool.json
+76262ea62c8fec98b9e9d4be579f46de7f878bde data\emd_universe\tags\block\ruby_ores.json
+063cb32b8ae85ed1cfa1c2efb8bef191193f4c53 data\minecraft\tags\block\mineable\shovel.json
+217da30826afd422e28e7fd2bdfd62f6f97f297d data\minecraft\tags\block\needs_iron_tool.json
+e889a8d1b5842a7a23753cae03cc5f646ab7360c data\minecraft\tags\block\candle_cakes.json
+1bb546943218f7d4c3c887e894aaf0fe412ec267 data\minecraft\tags\block\iron_ores.json
+0fd134cbfe184cbbcd66b94c18c7378dc28db9ac data\minecraft\tags\block\slabs.json
+9b98ed0e7c32ab59a212cd4eb9209971e558cdbc data\minecraft\tags\block\doors.json

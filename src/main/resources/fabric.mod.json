@@ -1,0 +1,40 @@
+{
+	"schemaVersion": 1,
+	"id": "emd_universe",
+	"version": "${version}",
+	"name": "EMD Universe",
+	"description": "Русский:\nThis is an example description! Tell everyone what your mod is about!\nEnglish:\nThis is an example description! Tell everyone what your mod is about!",
+	"authors": [
+		"Maxim3197",
+		"Sith"
+	],
+	"license": "Apache-2.0",
+	"icon": "assets/emd_universe/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"net.erfmd.EMDUniverse"
+		],
+		"client": [
+			"net.erfmd.EMDUniverseClient"
+		],
+		"server": [
+			"net.erfmd.EMDUniverseServer"
+		],
+		"fabric-datagen": [
+			"net.erfmd.EMDUniverseDataGenerator"
+		]
+	},
+	"mixins": [
+		"emd_universe.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.16.0",
+		"minecraft": "1.21.1",
+		"java": ">=21",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}

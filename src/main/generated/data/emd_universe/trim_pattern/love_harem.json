@@ -1,0 +1,8 @@
+{
+  "asset_id": "emd_universe:love_harem",
+  "decal": false,
+  "description": {
+    "translate": "trim_pattern.emd_universe.love_harem"
+  },
+  "template_item": "emd_universe:love_harem_armor_trim_smithing_template"
+}

@@ -1,0 +1,8 @@
+{
+  "asset_id": "emd_universe:oil_sun",
+  "decal": false,
+  "description": {
+    "translate": "trim_pattern.emd_universe.oil_sun"
+  },
+  "template_item": "emd_universe:oil_sun_armor_trim_smithing_template"
+}

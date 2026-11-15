@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "emd_universe:iron_nugget_from_smelting_worker_drone_arm"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    },
+    "has_worker_drone_arm": {
+      "conditions": {
+        "items": [
+          {
+            "items": "emd_universe:worker_drone_arm"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_worker_drone_arm"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "emd_universe:iron_nugget_from_smelting_worker_drone_arm"
+    ]
+  }
+}

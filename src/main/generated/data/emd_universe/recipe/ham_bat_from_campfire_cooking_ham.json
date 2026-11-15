@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:campfire_cooking",
+  "category": "food",
+  "cookingtime": 600,
+  "experience": 0.1,
+  "group": "food",
+  "ingredient": {
+    "item": "emd_universe:ham"
+  },
+  "result": {
+    "id": "emd_universe:ham_bat"
+  }
+}

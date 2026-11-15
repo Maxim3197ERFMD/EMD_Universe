@@ -1,0 +1,12 @@
+{
+  "asset_name": "rose",
+  "description": {
+    "color": "#EA8880",
+    "translate": "trim_material.emd_universe.rose"
+  },
+  "ingredient": "emd_universe:rose_gold_ingot",
+  "item_model_index": 0.66,
+  "override_armor_materials": {
+    "emd_universe:rose_gold": "rose_darker"
+  }
+}

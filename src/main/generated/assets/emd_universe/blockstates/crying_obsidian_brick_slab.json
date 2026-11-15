@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "emd_universe:block/crying_obsidian_brick_slab"
+    },
+    "type=double": {
+      "model": "emd_universe:block/crying_obsidian_bricks"
+    },
+    "type=top": {
+      "model": "emd_universe:block/crying_obsidian_brick_slab_top"
+    }
+  }
+}

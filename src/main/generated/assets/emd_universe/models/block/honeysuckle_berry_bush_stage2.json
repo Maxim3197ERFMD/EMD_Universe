@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cross",
+  "textures": {
+    "cross": "emd_universe:block/honeysuckle_berry_bush_stage2"
+  }
+}

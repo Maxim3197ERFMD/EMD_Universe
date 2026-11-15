@@ -1,0 +1,16 @@
+{
+  "values": [
+    "emd_universe:stone_tile_wall",
+    "emd_universe:polished_blackstone_tile_wall",
+    "emd_universe:end_stone_tile_wall",
+    "emd_universe:polished_stone_wall",
+    "emd_universe:sandstone_brick_wall",
+    "emd_universe:warp_nether_bricks_wall",
+    "emd_universe:snow_bricks_wall",
+    "emd_universe:obsidian_brick_wall",
+    "emd_universe:crying_obsidian_brick_wall",
+    "emd_universe:polished_obsidian_wall",
+    "emd_universe:crying_polished_obsidian_wall",
+    "emd_universe:iron_bar_wall"
+  ]
+}

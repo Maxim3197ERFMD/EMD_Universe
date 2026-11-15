@@ -1,0 +1,13 @@
+{
+	"parent": "emd_universe:item/railgun",
+	"display": {
+		"firstperson_righthand": {
+			"rotation": [0, 83, 0],
+			"translation": [1, 1.5, -2]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, -15, 0],
+			"translation": [-12, 1, -2]
+		}
+	}
+}

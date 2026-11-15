@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "S": {
+      "item": "emd_universe:caramel"
+    }
+  },
+  "pattern": [
+    "SS",
+    " S",
+    " S"
+  ],
+  "result": {
+    "count": 1,
+    "id": "emd_universe:candy_cane"
+  }
+}

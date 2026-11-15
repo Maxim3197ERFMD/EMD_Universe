@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "emd_universe:crying_obsidian_bricks"
+  },
+  "result": {
+    "count": 1,
+    "id": "emd_universe:crying_obsidian_brick_stairs"
+  }
+}

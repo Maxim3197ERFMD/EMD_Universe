@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "emd_universe:block/beekeeping_table",
+      "y": 90
+    },
+    "facing=north": {
+      "model": "emd_universe:block/beekeeping_table"
+    },
+    "facing=south": {
+      "model": "emd_universe:block/beekeeping_table",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "emd_universe:block/beekeeping_table",
+      "y": 270
+    }
+  }
+}

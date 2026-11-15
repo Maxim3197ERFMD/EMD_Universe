@@ -1,0 +1,35 @@
+{
+  "parent": "minecraft:husbandry/root",
+  "criteria": {
+    "warhammer_soup": {
+      "conditions": {
+        "item": {
+          "items": "emd_universe:warhammer_soup"
+        }
+      },
+      "trigger": "minecraft:consume_item"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.husbandry.warhammer_soup.description"
+    },
+    "frame": "challenge",
+    "icon": {
+      "count": 1,
+      "id": "emd_universe:warhammer_soup"
+    },
+    "title": {
+      "translate": "advancements.husbandry.warhammer_soup.title"
+    }
+  },
+  "requirements": [
+    [
+      "warhammer_soup"
+    ]
+  ],
+  "rewards": {
+    "experience": 100
+  },
+  "sends_telemetry_event": true
+}

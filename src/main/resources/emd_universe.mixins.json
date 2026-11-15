@@ -1,0 +1,29 @@
+{
+  "required": true,
+  "package": "net.erfmd.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [
+    "FreezeTopLayerFeatureMixin",
+    "SnowTreeFeatureMixin",
+    "WanderingTraderManagerMixin",
+    "banner.BannerDuplicateRecipeMixin",
+    "banner.BannerItemMixin",
+    "banner.LoomScreenHandlerMixin",
+    "custom_items.CustomTotemMixin",
+    "lavagen.NoiseChunkGeneratorMixin",
+    "nether_portal.NetherPortalMixin",
+    "piston.AbstractBlockMixin",
+    "piston.PistonBlockMixin",
+    "piston.PistonExtensionBlockMixin",
+    "server.ServerPlayNetworkHandlerMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "client": [
+    "AbstractClientPlayerEntityMixin",
+    "HeldItemRendererMixin",
+    "PlayerEntityRendererMixin",
+    "banner.LoomScreenMixin"
+  ]
+}
