@@ -3,9 +3,7 @@
 build/
 
 # IntelliJ IDEA
-.idea/workspace.xml
-.idea/tasks.xml
-.idea/shelf/
+.idea/
 *.iml
 out/
 
@@ -14,10 +12,13 @@ run/
 logs/
 crash-reports/
 
+# Local configuration
+.env
+.env.*
+!.env.example
+
 # OS
 .DS_Store
 Thumbs.db
 
-# Local secrets
-.env
-.env.*
+/railgun_craft.json
